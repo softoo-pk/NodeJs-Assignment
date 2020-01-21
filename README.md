@@ -7,7 +7,7 @@ Car Autozone is located in Rawalpindi with its grand show room. Car Autozone is 
 
 
 ## Note
-* This task is independent of any DB & and all the code has to be in node.js with no external libraries. 
+* This task is independent of any DB & and all the code has to be in node.js with **no external libraries**. 
 * Test driven development is preferred, **hence writing unit test will carry extra weightage**. In case testing is done **jest** is preferred
 * All the required resources are available on git. 
 
