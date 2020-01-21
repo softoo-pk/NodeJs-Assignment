@@ -1,0 +1,23 @@
+[
+	{
+		"car_id":"DCF12094",
+		"sold_on":"20-1-2010",
+		"sale_price":234000,
+		"sale_location":"Islamabad",
+		"salesman_id":"QASIM123"
+	},
+	{
+		"car_id":"BZS96667",
+		"sold_on":"02-12-2015",
+		"sale_price":300000,
+		"sale_location":"Lahore",
+		"salesman_id":"OMAR345"
+	},
+	{
+		"car_id":"CAE23401",
+		"sold_on":"19-1-2020",
+		"sale_price":4234000,
+		"sale_location":"Karachi",
+		"salesman_id":"JANKHAN115"
+	}
+]

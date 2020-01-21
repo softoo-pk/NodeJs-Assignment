@@ -1,0 +1,23 @@
+[
+	{
+		"id":"DCF12094",
+		"brand":"Honda",
+		"model":2001,
+		"condition":"used",
+		"color":"white"
+	},
+	{
+		"id":"BZS96667",
+		"brand":"Toyota",
+		"model":2011,
+		"condition":"new",
+		"color":"silver"
+	},
+	{
+		"id":"CAE23401",
+		"brand":"Mitsubishi",
+		"model":2020,
+		"condition":"used",
+		"color":"blue"
+	}
+]
