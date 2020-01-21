@@ -1,17 +1,3 @@
-# Give four json files
-1) car inventory list
-2) car sales data 
-3) sale incentive list
-4) sales men list
-
-Find which sales man get how much incentive for their sales 
-
-The sample data will be provided ... 
-The developers will out put the result in a csv file 
-
-‐‐-----------------------------------------------------------
-
-This task is independent of any db .. and all the code has to be in node.js with no external libraries ...
- 
-I estimate that given the files and 3 incentive rules, I can do this task in one more max ... 
-Regards Salman 
+Car Autozone is primarily located in Rawalpindi with its grand show room. Car Autozone is known for its middle range cars from different vendors which particularly suits middle class. Its sales persons are well trained and aggressively pursue customers. Car Autozone rewards its sales men by giving them incentives on sales. All sales & inventory data is collected periodically from all of its sales channels and stored in simple files. To make rewards quick Car Autozone management has decided to automate their system.
+(a)   Investigate how much system can be automated with given resources (see git link)
+(b)   Write a program for the automation
